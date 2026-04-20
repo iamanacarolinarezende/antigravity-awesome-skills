@@ -557,6 +557,15 @@ We officially thank the following contributors for their help in making this rep
 - [@818cortex](https://github.com/818cortex)
 - [@octo-patch](https://github.com/octo-patch)
 - [@fruitwyatt](https://github.com/fruitwyatt)
+- [@edudeftones-cloud](https://github.com/edudeftones-cloud)
+- [@emanoelCarvalho](https://github.com/emanoelCarvalho)
+- [@Evozim](https://github.com/Evozim)
+- [@globalchatapp](https://github.com/globalchatapp)
+- [@Imasaikiran](https://github.com/Imasaikiran)
+- [@jiawei248](https://github.com/jiawei248)
+- [@justmiroslav](https://github.com/justmiroslav)
+- [@tanveer-farooq](https://github.com/tanveer-farooq)
+- [@unitedideas](https://github.com/unitedideas)
 
 ## Star History
 
